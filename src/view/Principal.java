@@ -33,10 +33,7 @@ public class Principal {
 			}
 
 		}
-		System.out.println("Lista 0 " + lista0.toString());
-		System.out.println("Lista 2 " + lista2.toString());
-		System.out.println("Lista 4 " + lista4.toString());
-		//System.out.println(numeros.toString());
+		System.out.println(numeros.toString());
 	}
 
 }
